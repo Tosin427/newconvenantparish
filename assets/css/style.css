@@ -558,7 +558,7 @@
     align-items: center;
     justify-content: center;
     z-index: 9999;
-    transition: .3s;
+    transition: .9s;
 }
 
 .sigma_preloader.hidden{
