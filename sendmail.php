@@ -1,13 +1,14 @@
 <?php
     // Your email here
-    $email = 'rccgpastornewconvenant@gmail.com';
+    $email = 'oluwatosinajibs@gmail.com';
 
     // Errors Object
     $serverErrors = array();
 
     // Recaptcha settings
     $use_recaptcha = false;
-    define("RECAPTCHA_V3_SECRET_KEY", '6LceXdwUAAAAAM624k2Zezhs-jnmdJE8hjmhRMBh');
+    // previous key 6LceXdwUAAAAAM624k2Zezhs-jnmdJE8hjmhRMBh
+    define("RECAPTCHA_V3_SECRET_KEY", '6LdnoEkpAAAAAIf3uyBkATfFSagEdEmnZxh1KWqk');
 
     // Errors strings
     $name_error      = '*Invalid name (Only letters and white space allowed) <br>';
