@@ -11,6 +11,8 @@
     define("RECAPTCHA_V3_SECRET_KEY", '6LdnoEkpAAAAAIf3uyBkATfFSagEdEmnZxh1KWqk');
     // ERROR for site owner:
     // Invalid domain for site key
+    // Localhost is not in the list of supported domains for this site key.
+
 
 
     // Errors strings
