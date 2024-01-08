@@ -1,6 +1,6 @@
 <?php
     // Your email here
-    $email = 'oluwatosinajibs@gmail.com';
+    $email = 'rccgpastornewconvenant@gmail.com';
 
     // Errors Object
     $serverErrors = array();
