@@ -1,6 +1,6 @@
 <?php
     // Your email here
-    $email = 'rccgpastornewconvenant@gmail.com';
+    $email = 'info@rccgnewcovenantadelaide.org.au';
 
     // Errors Object
     $serverErrors = array();
