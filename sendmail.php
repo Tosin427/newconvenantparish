@@ -9,6 +9,9 @@
     $use_recaptcha = false;
     // previous key 6LceXdwUAAAAAM624k2Zezhs-jnmdJE8hjmhRMBh
     define("RECAPTCHA_V3_SECRET_KEY", '6LdnoEkpAAAAAIf3uyBkATfFSagEdEmnZxh1KWqk');
+    // ERROR for site owner:
+    // Invalid domain for site key
+
 
     // Errors strings
     $name_error      = '*Invalid name (Only letters and white space allowed) <br>';
